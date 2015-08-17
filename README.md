@@ -1,1 +1,1 @@
-# tetrad_constraint_enquirer
+This program reports on whether an inputed graph contains a given tetrad constraint.
