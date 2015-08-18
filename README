@@ -8,6 +8,7 @@ Base:
 1. R - get from: http://lib.stat.cmu.edu/R/CRAN/
 2. yacas - get from: http://yacas.sourceforge.net/homepage.html (for Windows)
 					 http://www.mathdrake.com/yacas/index.html (for Mac)
+3. Tetrad - get from: http://www.phil.cmu.edu/tetrad/current.html
 
 R packages:
 1. igraph
